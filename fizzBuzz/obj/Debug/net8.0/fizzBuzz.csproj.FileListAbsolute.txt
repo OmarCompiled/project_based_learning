@@ -1,0 +1,14 @@
+/home/omarcompiled/proj/fizzBuzz/bin/Debug/net8.0/fizzBuzz
+/home/omarcompiled/proj/fizzBuzz/bin/Debug/net8.0/fizzBuzz.deps.json
+/home/omarcompiled/proj/fizzBuzz/bin/Debug/net8.0/fizzBuzz.runtimeconfig.json
+/home/omarcompiled/proj/fizzBuzz/bin/Debug/net8.0/fizzBuzz.dll
+/home/omarcompiled/proj/fizzBuzz/bin/Debug/net8.0/fizzBuzz.pdb
+/home/omarcompiled/proj/fizzBuzz/obj/Debug/net8.0/fizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/home/omarcompiled/proj/fizzBuzz/obj/Debug/net8.0/fizzBuzz.AssemblyInfoInputs.cache
+/home/omarcompiled/proj/fizzBuzz/obj/Debug/net8.0/fizzBuzz.AssemblyInfo.cs
+/home/omarcompiled/proj/fizzBuzz/obj/Debug/net8.0/fizzBuzz.csproj.CoreCompileInputs.cache
+/home/omarcompiled/proj/fizzBuzz/obj/Debug/net8.0/fizzBuzz.dll
+/home/omarcompiled/proj/fizzBuzz/obj/Debug/net8.0/refint/fizzBuzz.dll
+/home/omarcompiled/proj/fizzBuzz/obj/Debug/net8.0/fizzBuzz.pdb
+/home/omarcompiled/proj/fizzBuzz/obj/Debug/net8.0/fizzBuzz.genruntimeconfig.cache
+/home/omarcompiled/proj/fizzBuzz/obj/Debug/net8.0/ref/fizzBuzz.dll

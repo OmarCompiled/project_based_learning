@@ -1,0 +1,14 @@
+/home/omarcompiled/proj/calculator/obj/Debug/net8.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/omarcompiled/proj/calculator/obj/Debug/net8.0/calculator.AssemblyInfoInputs.cache
+/home/omarcompiled/proj/calculator/obj/Debug/net8.0/calculator.AssemblyInfo.cs
+/home/omarcompiled/proj/calculator/obj/Debug/net8.0/calculator.csproj.CoreCompileInputs.cache
+/home/omarcompiled/proj/calculator/bin/Debug/net8.0/calculator
+/home/omarcompiled/proj/calculator/bin/Debug/net8.0/calculator.deps.json
+/home/omarcompiled/proj/calculator/bin/Debug/net8.0/calculator.runtimeconfig.json
+/home/omarcompiled/proj/calculator/bin/Debug/net8.0/calculator.dll
+/home/omarcompiled/proj/calculator/bin/Debug/net8.0/calculator.pdb
+/home/omarcompiled/proj/calculator/obj/Debug/net8.0/calculator.dll
+/home/omarcompiled/proj/calculator/obj/Debug/net8.0/refint/calculator.dll
+/home/omarcompiled/proj/calculator/obj/Debug/net8.0/calculator.pdb
+/home/omarcompiled/proj/calculator/obj/Debug/net8.0/calculator.genruntimeconfig.cache
+/home/omarcompiled/proj/calculator/obj/Debug/net8.0/ref/calculator.dll

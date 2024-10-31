@@ -1,0 +1,14 @@
+/home/omarcompiled/proj/palindrome/obj/Debug/net8.0/palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/home/omarcompiled/proj/palindrome/obj/Debug/net8.0/palindrome.AssemblyInfoInputs.cache
+/home/omarcompiled/proj/palindrome/obj/Debug/net8.0/palindrome.AssemblyInfo.cs
+/home/omarcompiled/proj/palindrome/obj/Debug/net8.0/palindrome.csproj.CoreCompileInputs.cache
+/home/omarcompiled/proj/palindrome/bin/Debug/net8.0/palindrome
+/home/omarcompiled/proj/palindrome/bin/Debug/net8.0/palindrome.deps.json
+/home/omarcompiled/proj/palindrome/bin/Debug/net8.0/palindrome.runtimeconfig.json
+/home/omarcompiled/proj/palindrome/bin/Debug/net8.0/palindrome.dll
+/home/omarcompiled/proj/palindrome/bin/Debug/net8.0/palindrome.pdb
+/home/omarcompiled/proj/palindrome/obj/Debug/net8.0/palindrome.dll
+/home/omarcompiled/proj/palindrome/obj/Debug/net8.0/refint/palindrome.dll
+/home/omarcompiled/proj/palindrome/obj/Debug/net8.0/palindrome.pdb
+/home/omarcompiled/proj/palindrome/obj/Debug/net8.0/palindrome.genruntimeconfig.cache
+/home/omarcompiled/proj/palindrome/obj/Debug/net8.0/ref/palindrome.dll

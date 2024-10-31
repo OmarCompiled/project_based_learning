@@ -1,0 +1,14 @@
+/home/omarcompiled/proj/tempConvert/obj/Debug/net8.0/tempConvert.GeneratedMSBuildEditorConfig.editorconfig
+/home/omarcompiled/proj/tempConvert/obj/Debug/net8.0/tempConvert.AssemblyInfoInputs.cache
+/home/omarcompiled/proj/tempConvert/obj/Debug/net8.0/tempConvert.AssemblyInfo.cs
+/home/omarcompiled/proj/tempConvert/obj/Debug/net8.0/tempConvert.csproj.CoreCompileInputs.cache
+/home/omarcompiled/proj/tempConvert/bin/Debug/net8.0/tempConvert
+/home/omarcompiled/proj/tempConvert/bin/Debug/net8.0/tempConvert.deps.json
+/home/omarcompiled/proj/tempConvert/bin/Debug/net8.0/tempConvert.runtimeconfig.json
+/home/omarcompiled/proj/tempConvert/bin/Debug/net8.0/tempConvert.dll
+/home/omarcompiled/proj/tempConvert/bin/Debug/net8.0/tempConvert.pdb
+/home/omarcompiled/proj/tempConvert/obj/Debug/net8.0/tempConvert.dll
+/home/omarcompiled/proj/tempConvert/obj/Debug/net8.0/refint/tempConvert.dll
+/home/omarcompiled/proj/tempConvert/obj/Debug/net8.0/tempConvert.pdb
+/home/omarcompiled/proj/tempConvert/obj/Debug/net8.0/tempConvert.genruntimeconfig.cache
+/home/omarcompiled/proj/tempConvert/obj/Debug/net8.0/ref/tempConvert.dll
