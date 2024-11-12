@@ -4,19 +4,19 @@
 1. Temperature Converter
    - Background: Create a program that converts temperatures between Fahrenheit, Celsius, and Kelvin. The user should be able to choose the unit of input and the target unit for conversion.
    - Prompt: If the user inputs "Fahrenheit to Celsius," convert using the formula C = (F - 32) * 5/9. Allow the reverse as well, along with Kelvin.
-
+--------------------------
 2. FizzBuzz
    - Background: A classic programming challenge used in interviews.
    - Prompt: Write a program that prints the numbers from 1 to 100. But for multiples of 3, print "Fizz" instead of the number. For multiples of 5, print "Buzz." For numbers which are multiples of both 3 and 5, print "FizzBuzz."
-
+--------------------------
 3. Simple Calculator
    - Background: Build a basic calculator that can add, subtract, multiply, and divide.
    - Prompt: Ask the user to input two numbers and the operation (+, -, *, /). The program should output the result. Handle potential errors like division by zero.
-
+--------------------------
 4. Palindrome Checker
    - Background: Palindromes are words that read the same forwards and backward, like "racecar."
    - Prompt: Create a program that checks if a given word is a palindrome. Ignore spaces and case.
-
+--------------------------
 5. Age in Days Calculator
    - Background: This program will calculate a user's age in days based on their birthdate.
    - Prompt: Ask the user for their birthdate and use the current date to compute their age in days. Handle leap years if possible.
@@ -32,7 +32,7 @@
 8. Vowel Counter
    - Background: Count how many vowels are in a given sentence.
    - Prompt: Ask the user for a string of text, then count how many vowels (a, e, i, o, u) it contains, ignoring case.
-
+--------------------------
 9. Simple To-Do List
    - Background: Build a program that helps users manage simple tasks.
    - Prompt: Allow the user to add, remove, and view tasks in a list. Each task should have a unique ID.

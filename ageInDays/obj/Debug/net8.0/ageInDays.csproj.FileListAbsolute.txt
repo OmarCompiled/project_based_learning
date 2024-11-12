@@ -1,0 +1,15 @@
+/home/omarcompiled/Projects/project_based_learning/ageInDays/obj/Debug/net8.0/ageInDays.GeneratedMSBuildEditorConfig.editorconfig
+/home/omarcompiled/Projects/project_based_learning/ageInDays/obj/Debug/net8.0/ageInDays.AssemblyInfoInputs.cache
+/home/omarcompiled/Projects/project_based_learning/ageInDays/obj/Debug/net8.0/ageInDays.AssemblyInfo.cs
+/home/omarcompiled/Projects/project_based_learning/ageInDays/obj/Debug/net8.0/ageInDays.csproj.CoreCompileInputs.cache
+/home/omarcompiled/Projects/project_based_learning/ageInDays/obj/Debug/net8.0/ageInDays.sourcelink.json
+/home/omarcompiled/Projects/project_based_learning/ageInDays/bin/Debug/net8.0/ageInDays
+/home/omarcompiled/Projects/project_based_learning/ageInDays/bin/Debug/net8.0/ageInDays.deps.json
+/home/omarcompiled/Projects/project_based_learning/ageInDays/bin/Debug/net8.0/ageInDays.runtimeconfig.json
+/home/omarcompiled/Projects/project_based_learning/ageInDays/bin/Debug/net8.0/ageInDays.dll
+/home/omarcompiled/Projects/project_based_learning/ageInDays/bin/Debug/net8.0/ageInDays.pdb
+/home/omarcompiled/Projects/project_based_learning/ageInDays/obj/Debug/net8.0/ageInDays.dll
+/home/omarcompiled/Projects/project_based_learning/ageInDays/obj/Debug/net8.0/refint/ageInDays.dll
+/home/omarcompiled/Projects/project_based_learning/ageInDays/obj/Debug/net8.0/ageInDays.pdb
+/home/omarcompiled/Projects/project_based_learning/ageInDays/obj/Debug/net8.0/ageInDays.genruntimeconfig.cache
+/home/omarcompiled/Projects/project_based_learning/ageInDays/obj/Debug/net8.0/ref/ageInDays.dll

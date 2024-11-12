@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/omarcompiled/proj/ageInDays/ageInDays.csproj": {}
+    "/home/omarcompiled/Projects/project_based_learning/ageInDays/ageInDays.csproj": {}
   },
   "projects": {
-    "/home/omarcompiled/proj/ageInDays/ageInDays.csproj": {
+    "/home/omarcompiled/Projects/project_based_learning/ageInDays/ageInDays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/omarcompiled/proj/ageInDays/ageInDays.csproj",
+        "projectUniqueName": "/home/omarcompiled/Projects/project_based_learning/ageInDays/ageInDays.csproj",
         "projectName": "ageInDays",
-        "projectPath": "/home/omarcompiled/proj/ageInDays/ageInDays.csproj",
+        "projectPath": "/home/omarcompiled/Projects/project_based_learning/ageInDays/ageInDays.csproj",
         "packagesPath": "/home/omarcompiled/.nuget/packages/",
-        "outputPath": "/home/omarcompiled/proj/ageInDays/obj/",
+        "outputPath": "/home/omarcompiled/Projects/project_based_learning/ageInDays/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/omarcompiled/.nuget/NuGet/NuGet.Config"
